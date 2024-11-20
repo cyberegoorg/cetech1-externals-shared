@@ -1,0 +1,8 @@
+*.DS_Store
+.DS_Store
+
+tmp
+
+# ZIG
+*zig-cache
+*zig-out
