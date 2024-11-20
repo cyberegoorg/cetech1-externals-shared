@@ -1,0 +1,39 @@
+[submodule "repo/zmath"]
+	path = repo/zmath
+	url = https://github.com/OndraVoves/zmath.git
+[submodule "repo/zgui"]
+	path = repo/zgui
+	url = https://github.com/cyberegoorg/zgui.git
+[submodule "repo/ztracy"]
+	path = repo/ztracy
+	url = https://github.com/cyberegoorg/ztracy.git
+[submodule "repo/system_sdk"]
+	path = repo/system_sdk
+	url = https://github.com/cyberegoorg/system_sdk.git
+[submodule "repo/zglfw"]
+	path = repo/zglfw
+	url = https://github.com/cyberegoorg/zglfw.git
+[submodule "repo/zflecs"]
+	path = repo/zflecs
+	url = https://github.com/cyberegoorg/zflecs.git
+[submodule "repo/zjobs"]
+	path = repo/zjobs
+	url = https://github.com/cyberegoorg/zjobs.git
+[submodule "repo/zbgfx"]
+	path = repo/zbgfx
+	url = https://github.com/cyberegoorg/zbgfx.git
+[submodule "repo/zf"]
+	path = repo/zf
+	url = https://github.com/cyberegoorg/zf.git
+[submodule "repo/zig-uuid"]
+	path = repo/zig-uuid
+	url = https://github.com/cyberegoorg/zig-uuid.git
+[submodule "repo/ziglang-set"]
+	path = repo/ziglang-set
+	url = https://github.com/cyberegoorg/ziglang-set.git
+[submodule "repo/SDL_GameControllerDB"]
+	path = repo/SDL_GameControllerDB
+	url = https://github.com/cyberegoorg/SDL_GameControllerDB.git
+[submodule "repo/zls"]
+	path = repo/zls
+	url = https://github.com/zigtools/zls.git
